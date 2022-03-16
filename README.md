@@ -1,6 +1,6 @@
 # clima_app
 
-A new Flutter application.
+This app shows the weather and recommendation according to the current location of the user. And the user can search for cities and see the weather condition there. This app uses Open Weather API (https://openweathermap.org/api) in order to show weather data.
 
 ## Getting Started
 
